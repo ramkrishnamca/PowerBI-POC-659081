@@ -22,7 +22,7 @@ headers = {
     'Authorization': f'Bearer {access_token}'
 }
 
-pbix_path = 'Test.pbix'
+pbix_path = 'reports/Test.pbix'
 dataset_name = 'Sales Report'
 
 with open(pbix_path, 'rb') as pbix_file:
