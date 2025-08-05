@@ -1,4 +1,5 @@
 # Deploy Power BI Artifacts
+# Test report
 name: Deploy Power BI Artifacts
 
 on:
