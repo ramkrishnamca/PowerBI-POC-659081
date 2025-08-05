@@ -23,7 +23,7 @@ headers = {
 }
 
 pbix_path = 'reports/Test.pbix'
-dataset_name = 'Sales Report'
+dataset_name = 'Test'
 
 with open(pbix_path, 'rb') as pbix_file:
     print("Uploading PBIX...")
